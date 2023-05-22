@@ -1,0 +1,767 @@
+.inochef6 {
+  color: var(--color-khaki);
+  cursor: pointer;
+}
+.about-us6,
+.inochef6,
+.our-mission3 {
+  position: relative;
+}
+.our-mission3 {
+  cursor: pointer;
+}
+.inochef-parent1 {
+  position: absolute;
+  top: 42px;
+  left: 22px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-171xl);
+  font-family: var(--font-inter);
+}
+.instance-child8,
+.rectangle-icon1 {
+  position: absolute;
+  height: 31.9%;
+  width: 14.17%;
+  top: 33.37%;
+  right: 61.41%;
+  bottom: 34.72%;
+  left: 24.43%;
+  overflow: hidden;
+}
+.rectangle-icon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.line-icon {
+  position: relative;
+  width: 521px;
+  height: 2px;
+}
+.cook-like-a {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.line-div {
+  position: relative;
+  border-top: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 522px;
+  height: 1px;
+}
+.line-parent {
+  position: absolute;
+  height: 27.85%;
+  width: 29.11%;
+  top: 35.71%;
+  right: 23.07%;
+  bottom: 36.44%;
+  left: 47.81%;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-50xl) var(--padding-lgi);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 14.5px;
+}
+.instance-child9 {
+  position: absolute;
+  height: 31.9%;
+  width: 14.32%;
+  top: 33.37%;
+  right: 61.3%;
+  bottom: 34.72%;
+  left: 24.38%;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-400);
+}
+.chef5 {
+  color: var(--color-khaki);
+}
+.inochef7 {
+  position: absolute;
+  top: 392px;
+  left: 575px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  display: inline-block;
+  width: 62px;
+  color: var(--color-gold);
+}
+.frame-icon {
+  position: absolute;
+  top: 272px;
+  left: 466px;
+  width: 275px;
+  height: 260px;
+  overflow: hidden;
+  display: none;
+}
+.frame-parent4 {
+  position: relative;
+  width: 1920px;
+  height: 815px;
+}
+.instance-container {
+  position: absolute;
+  top: 851px;
+  left: -4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-gray-600);
+}
+.about-us7 {
+  margin: 0;
+}
+.ino2 {
+  color: var(--color-gold);
+}
+.we-are-inochef {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+}
+.about-us-we-container {
+  position: absolute;
+  width: 27.35%;
+  top: 5.59%;
+  left: 15.17%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  display: inline-block;
+  font-size: 43px;
+}
+.instance-child10 {
+  position: absolute;
+  height: 26.77%;
+  width: 15.01%;
+  top: 36.32%;
+  right: 37.24%;
+  bottom: 36.91%;
+  left: 47.75%;
+  border-radius: var(--br-mini);
+  background: linear-gradient(135.32deg, #fef8db, #ccc);
+}
+.instance-child11,
+.instance-child12 {
+  position: absolute;
+  left: 65.54%;
+  border-radius: var(--br-mini);
+}
+.instance-child11 {
+  height: 36.91%;
+  width: 19.91%;
+  top: 52.95%;
+  right: 14.55%;
+  bottom: 10.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child12 {
+  height: 31.37%;
+  width: 15.81%;
+  top: 17.1%;
+  right: 18.65%;
+  bottom: 51.53%;
+  background: linear-gradient(212.96deg, #fef8db, #ccc);
+}
+.no-food-wastage {
+  top: 46.11%;
+  left: 50.73%;
+  color: var(--color-gray-1100);
+}
+.easy-cooking,
+.healthy,
+.no-food-wastage {
+  position: absolute;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+}
+.healthy {
+  height: 2.95%;
+  width: 4.63%;
+  top: 67.92%;
+  left: 73.15%;
+  color: var(--color-gray-400);
+  display: inline-block;
+}
+.easy-cooking {
+  top: 27.36%;
+  left: 69.91%;
+  color: var(--color-gray-1200);
+}
+.follow-our-easy,
+.the-meal-kit,
+.we-guarantee-the {
+  position: absolute;
+  width: 13.16%;
+  top: 49.76%;
+  left: 48.68%;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.02em;
+  font-family: var(--font-pangea-trial);
+  text-align: center;
+  display: inline-block;
+}
+.follow-our-easy,
+.we-guarantee-the {
+  width: 15.28%;
+  top: 71.46%;
+  left: 67.86%;
+}
+.follow-our-easy {
+  width: 11.84%;
+  top: 31.37%;
+  left: 67.53%;
+}
+.why-do-you-container1 {
+  position: absolute;
+  top: 46.34%;
+  left: 4.96%;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.rectangle-parent13 {
+  position: relative;
+  width: 1512px;
+  height: 848px;
+}
+.instance-frame {
+  position: absolute;
+  top: 1925px;
+  left: -4px;
+  background-color: var(--color-gray-300);
+  width: 1920px;
+  display: flex;
+  flex-direction: column;
+  padding: 136px 139px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-pangea-text-trial);
+}
+.instance-child13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-cornsilk);
+}
+.instance-child14,
+.instance-child15,
+.instance-child16 {
+  position: absolute;
+  height: 44.63%;
+  width: 25.1%;
+  top: 31.76%;
+  right: 26.98%;
+  bottom: 23.61%;
+  left: 47.92%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.instance-child15,
+.instance-child16 {
+  height: 33.15%;
+  width: 18.65%;
+  top: 19.81%;
+  right: 14.22%;
+  bottom: 47.04%;
+  left: 67.14%;
+}
+.instance-child16 {
+  height: 39.63%;
+  width: 22.29%;
+  top: 50.37%;
+  right: 9.95%;
+  bottom: 10%;
+  left: 67.76%;
+}
+.get-delicious-recipes,
+.recipes-youll-love {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+.get-delicious-recipes {
+  width: 100%;
+  top: 30.53%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.get-1-free,
+.group-child3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.group-child3 {
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.get-1-free {
+  letter-spacing: 0.03em;
+  display: flex;
+  font-weight: 700;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent15 {
+  position: absolute;
+  height: 22.9%;
+  width: 33.56%;
+  top: 77.1%;
+  right: 66.44%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-700);
+}
+.recipes-youll-love-parent {
+  position: absolute;
+  height: 12.13%;
+  width: 22.5%;
+  top: 43.89%;
+  right: 62.4%;
+  bottom: 43.98%;
+  left: 15.1%;
+}
+.rectangle-parent14 {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+}
+.instance-wrapper1,
+.recycled-and-recyclable {
+  position: absolute;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  display: flex;
+}
+.instance-wrapper1 {
+  top: 3304px;
+  left: -4px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+}
+.recycled-and-recyclable {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  align-items: center;
+}
+.adapted-to-the,
+.llustrates-the-benefits {
+  position: absolute;
+  width: 88.89%;
+  top: 33.53%;
+  left: 0;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.adapted-to-the {
+  top: 61.76%;
+}
+.rectangle-parent17 {
+  position: absolute;
+  height: 17.65%;
+  width: 29.84%;
+  top: 82.35%;
+  right: 70.16%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-700);
+}
+.recycled-and-recyclable-packag-parent {
+  position: absolute;
+  height: 15.74%;
+  width: 25.31%;
+  top: 41.39%;
+  right: 62.34%;
+  bottom: 42.87%;
+  left: 12.34%;
+}
+.instance-child18 {
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 50%;
+  background-color: var(--color-antiquewhite);
+}
+.instance-child19 {
+  position: absolute;
+  height: 46.3%;
+  width: 25.99%;
+  top: 25%;
+  right: 11.15%;
+  bottom: 28.7%;
+  left: 62.86%;
+  background-color: var(--color-black);
+}
+.instance-child20,
+.instance-child21 {
+  position: absolute;
+  width: 26.04%;
+  right: 11.98%;
+  left: 61.98%;
+}
+.instance-child20 {
+  height: 46.3%;
+  top: 23.52%;
+  bottom: 30.19%;
+  background-color: var(--color-antiquewhite);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.instance-child21 {
+  height: 36.48%;
+  top: 28.43%;
+  bottom: 35.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-parent16 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.recycled-and-recyclable1 {
+  position: relative;
+  font-size: var(--font-size-7xl);
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.llustrates-the-benefits1 {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 432px;
+}
+.rectangle-parent18 {
+  position: relative;
+  width: 145px;
+  height: 30px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-700);
+}
+.recycled-and-recyclable-packag-group {
+  position: absolute;
+  height: 16.94%;
+  top: 40.79%;
+  bottom: 42.27%;
+  left: calc(50% - 723px);
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+}
+.instance-parent {
+  position: absolute;
+  top: 4643px;
+  left: -4px;
+  width: 1920px;
+  height: 1080px;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+}
+.instance-child22 {
+  position: absolute;
+  height: 91.86%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 8.14%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.instance-child23 {
+  position: absolute;
+  height: 21.62%;
+  width: 70.92%;
+  top: 7.42%;
+  right: 14.71%;
+  bottom: 70.95%;
+  left: 14.36%;
+  background-color: var(--color-gainsboro-300);
+}
+.fress-groceries-directly3 {
+  position: absolute;
+  top: 30.13%;
+  left: 41.67%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  text-align: left;
+}
+.instance-child24 {
+  position: absolute;
+  height: 1.17%;
+  width: 16.1%;
+  top: 44.86%;
+  right: 42.13%;
+  bottom: 53.96%;
+  left: 41.78%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-300);
+}
+.grab-your-free3,
+.start-making-an3 {
+  position: absolute;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+}
+.grab-your-free3 {
+  top: 45.14%;
+  left: 43.7%;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.start-making-an3 {
+  top: 43.29%;
+  left: 41.78%;
+  font-size: var(--font-size-5xl);
+}
+.join-us6 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  text-align: left;
+}
+.by-cooking-with3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  color: var(--color-gray-1000);
+}
+.frame-child33,
+.frame-child34 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-7xs);
+  height: 30px;
+}
+.frame-child33 {
+  left: 0;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 312.18px;
+}
+.frame-child34 {
+  left: 228.98px;
+  background-color: var(--color-white);
+  width: 123.02px;
+}
+.sign-up3 {
+  position: absolute;
+  top: 7.8px;
+  left: 256.71px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 66.84px;
+  height: 15px;
+  opacity: 0.9;
+}
+.rectangle-parent19 {
+  position: relative;
+  width: 352px;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-400);
+}
+.join-us-parent1 {
+  position: absolute;
+  height: 5.34%;
+  top: 77.36%;
+  bottom: 17.3%;
+  left: calc(50% - 697px);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-21xl) 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.instance-child25 {
+  position: absolute;
+  height: 47.24%;
+  width: 100%;
+  top: 52.76%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.company3 {
+  position: relative;
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 132px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.company-parent1 {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-mini);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.contact3,
+.legal3,
+.social-media3 {
+  position: relative;
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.legal3,
+.social-media3 {
+  width: 81px;
+}
+.social-media3 {
+  width: 181px;
+}
+.frame-parent5 {
+  position: absolute;
+  height: 8.93%;
+  width: 74.66%;
+  top: 88.51%;
+  right: 12.74%;
+  bottom: 2.56%;
+  left: 12.6%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-188xl);
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray-100);
+}
+.eat-healthy-be3,
+.inochef8 {
+  position: absolute;
+  left: 13.81%;
+}
+.inochef8 {
+  top: 73.49%;
+  font-size: var(--font-size-53xl);
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  color: var(--color-gold);
+}
+.eat-healthy-be3 {
+  top: 76.43%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.07em;
+  color: var(--color-dimgray-100);
+}
+.group-parent2 {
+  position: absolute;
+  top: 5723px;
+  left: 0;
+  width: 1926px;
+  height: 3237px;
+  overflow: hidden;
+  text-align: center;
+}
+.frame-root {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 9016px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-pangea-trial);
+}

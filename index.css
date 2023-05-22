@@ -1,0 +1,847 @@
+.inochef14 {
+  position: relative;
+  color: var(--color-khaki);
+}
+.about-us11 {
+  position: relative;
+  cursor: pointer;
+}
+.inochef-parent3 {
+  position: absolute;
+  top: 55px;
+  left: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-131xl);
+  font-family: var(--font-inter);
+}
+.no-shopping-no {
+  position: absolute;
+  height: 41.38%;
+  width: 65.56%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.instance-child27 {
+  position: absolute;
+  height: 18.39%;
+  width: 41.83%;
+  top: 81.61%;
+  right: 58.17%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+}
+.delicious-recipes-delivered,
+.download-now {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+}
+.download-now {
+  height: 18.39%;
+  width: 41.83%;
+  top: 81.61%;
+  font-size: var(--font-size-mini);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.delicious-recipes-delivered {
+  height: 10.34%;
+  width: 100%;
+  top: 48.28%;
+  font-size: 21px;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.no-shopping-no-hassle-parent {
+  position: absolute;
+  top: 486px;
+  left: 290px;
+  width: 514px;
+  height: 261px;
+  font-size: 44px;
+}
+.frame-child53 {
+  position: relative;
+  width: 350px;
+  height: 357px;
+  object-fit: cover;
+}
+.vector-parent {
+  position: absolute;
+  width: 94.69%;
+  top: calc(50% - 243px);
+  right: 0;
+  left: 5.31%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-28xl) var(--padding-34xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 76px;
+}
+.explore-food-from1 {
+  position: absolute;
+  top: 21.9%;
+  left: 8.07%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+}
+.japanese {
+  width: 5.5%;
+  top: 0;
+  font-weight: 500;
+}
+.japanese,
+.the-traditional-cuisine {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.italian-food-is,
+.korean-cuisine-is,
+.the-traditional-cuisine {
+  width: 18.98%;
+  top: 33.72%;
+  font-size: var(--font-size-mini);
+}
+.italian-food-is {
+  position: absolute;
+  left: 86.86%;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.korean-cuisine-is {
+  left: 28.95%;
+}
+.american,
+.american-food-is,
+.italian,
+.korean,
+.korean-cuisine-is {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.korean {
+  width: 4.01%;
+  top: 0;
+  left: 28.95%;
+  font-weight: 500;
+}
+.american,
+.american-food-is,
+.italian {
+  left: 57.9%;
+}
+.american-food-is {
+  width: 18.98%;
+  top: 33.72%;
+  font-size: var(--font-size-mini);
+}
+.american,
+.italian {
+  width: 5.43%;
+  top: 0;
+  font-weight: 500;
+}
+.italian {
+  width: 3.53%;
+  left: 86.86%;
+}
+.japanese-parent {
+  position: absolute;
+  top: 756px;
+  left: 155px;
+  width: 1473px;
+  height: 86px;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-pangea-trial);
+}
+.frame-parent9 {
+  position: absolute;
+  height: 13.73%;
+  width: 100%;
+  top: 35.79%;
+  right: 0;
+  bottom: 50.48%;
+  left: 0;
+  background-color: var(--color-cornsilk);
+  overflow: hidden;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-400);
+}
+.discover-food-perfection {
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+}
+.frame-child57 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.affordable-meals {
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 195px;
+}
+.rectangle-parent25 {
+  position: absolute;
+  top: 44px;
+  left: 784px;
+  width: 138px;
+  height: 77px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 27px;
+}
+.pfferfectly-portioned {
+  position: absolute;
+  top: 57px;
+  left: 24px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 211px;
+}
+.vector-icon {
+  position: absolute;
+  height: 32.02%;
+  width: 13.01%;
+  top: 0.84%;
+  right: 48.29%;
+  bottom: 67.13%;
+  left: 38.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.feather-icon-child {
+  position: absolute;
+  top: 11.75px;
+  left: 99.25px;
+  width: 13.5px;
+  height: 3.5px;
+}
+.feather-icon-item,
+.feather-icon3 {
+  position: absolute;
+  top: 1.25px;
+  left: 99.25px;
+  width: 3.5px;
+  height: 13px;
+}
+.feather-icon3 {
+  height: 55.97%;
+  width: 22.44%;
+  top: 27.67%;
+  right: 27.56%;
+  bottom: 16.35%;
+  left: 50%;
+  overflow: hidden;
+  text-align: left;
+}
+.shape-icon {
+  position: relative;
+  width: 28px;
+  height: 28px;
+}
+.chefs-recipes {
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 153px;
+}
+.shape-parent {
+  position: absolute;
+  top: 44px;
+  left: 296px;
+  width: 114px;
+  height: 77px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-10xl);
+}
+.shape-icon1 {
+  position: absolute;
+  height: 87.5%;
+  width: 70.83%;
+  top: 4.17%;
+  right: 16.67%;
+  bottom: 8.33%;
+  left: 12.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fresh-ingredients {
+  position: absolute;
+  top: 60px;
+  left: -52px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+  width: 186px;
+}
+.apple {
+  position: absolute;
+  height: 22.01%;
+  width: 3.59%;
+  top: 25.79%;
+  right: 85.45%;
+  bottom: 52.2%;
+  left: 10.96%;
+  text-align: left;
+}
+.frame-parent10 {
+  position: relative;
+  width: 976px;
+  height: 159px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.discover-food-perfection-parent {
+  position: absolute;
+  height: 10.21%;
+  width: 100%;
+  top: 11.84%;
+  right: 0;
+  bottom: 77.95%;
+  left: 0;
+  background-color: var(--color-cornsilk);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 277px 472px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.component-child18 {
+  position: absolute;
+  height: 36.79%;
+  width: 39.82%;
+  top: 26.42%;
+  right: 60.18%;
+  bottom: 36.79%;
+  left: 0;
+  border-radius: var(--br-mini);
+  background: linear-gradient(135.32deg, #fef8db, #ccc);
+}
+.component-child19,
+.component-child20 {
+  position: absolute;
+  left: 47.19%;
+  border-radius: var(--br-mini);
+}
+.component-child19 {
+  height: 50.73%;
+  width: 52.81%;
+  top: 49.27%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-child20 {
+  height: 43.11%;
+  width: 41.93%;
+  top: 0;
+  right: 10.88%;
+  bottom: 56.89%;
+  background: linear-gradient(212.96deg, #fef8db, #ccc);
+}
+.chef-recipes,
+.fresh-ingredients1,
+.perfectly-portioned {
+  position: absolute;
+  top: 39.87%;
+  left: 12.11%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: var(--font-pangea-trial);
+  color: var(--color-gray-1100);
+}
+.fresh-ingredients1,
+.perfectly-portioned {
+  top: 68.72%;
+  left: 62.81%;
+  color: var(--color-gray-400);
+}
+.perfectly-portioned {
+  top: 15.07%;
+  left: 55.79%;
+  color: var(--color-gray-1200);
+}
+.find-best-recipe {
+  position: absolute;
+  top: 248px;
+  left: -670px;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.like-fresh-produce,
+.so-your-ingredients,
+.with-step-by-step-instructions {
+  position: absolute;
+  top: 456px;
+  left: 321px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.02em;
+  text-align: center;
+  display: inline-block;
+  width: 198px;
+}
+.so-your-ingredients,
+.with-step-by-step-instructions {
+  top: 277px;
+  left: 31px;
+  width: 165px;
+}
+.so-your-ingredients {
+  top: 126px;
+  left: 303px;
+  color: rgba(113, 113, 113, 0.85);
+  width: 171px;
+}
+.rectangle-parent26 {
+  position: absolute;
+  top: 2027px;
+  left: 960px;
+  width: 570px;
+  height: 617px;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+}
+.frame-child58,
+.frame-child59,
+.frame-child60,
+.frame-child61 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child58 {
+  height: 90.81%;
+  width: 88.74%;
+  top: 4.49%;
+  right: 5.77%;
+  bottom: 4.7%;
+  left: 5.49%;
+  object-fit: cover;
+}
+.frame-child59,
+.frame-child60,
+.frame-child61 {
+  height: 9.51%;
+  width: 70.33%;
+  top: 88.89%;
+  right: 14.56%;
+  bottom: 1.6%;
+  left: 15.11%;
+}
+.frame-child60,
+.frame-child61 {
+  height: 3.53%;
+  width: 6.32%;
+  top: 90.92%;
+  right: 67.03%;
+  bottom: 5.56%;
+  left: 26.65%;
+}
+.frame-child61 {
+  width: 6.38%;
+  right: 26.59%;
+  left: 67.03%;
+}
+.sep-2022 {
+  position: absolute;
+  height: 6.84%;
+  width: 46.43%;
+  top: 88.89%;
+  left: 26.65%;
+  letter-spacing: 0.03em;
+  display: flex;
+  font-weight: 700;
+  align-items: center;
+  justify-content: center;
+}
+.inochefs-mission-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.inochefs-mission {
+  position: absolute;
+  width: 33.52%;
+  top: 17.09%;
+  left: 49.45%;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  color: var(--color-gray-500);
+}
+.rectangle-parent27 {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: #0b0b0b;
+  width: 364px;
+  height: 468px;
+}
+.inochefs-mission1,
+.we-are-on1 {
+  position: relative;
+  font-weight: 500;
+}
+.inochefs-mission1 {
+  letter-spacing: 0.05em;
+  text-align: left;
+}
+.we-are-on1 {
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 482px;
+}
+.know-more-wrapper,
+.know-more1 {
+  width: 169px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.know-more1 {
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  height: 32px;
+  flex-shrink: 0;
+}
+.know-more-wrapper {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-pangea-text-trial);
+}
+.frame-parent11,
+.inochefs-mission-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.inochefs-mission-parent {
+  flex-direction: column;
+  gap: var(--gap-mini);
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-pangea-trial);
+}
+.frame-parent11 {
+  position: absolute;
+  top: 3953px;
+  left: 0;
+  background-color: var(--color-darkseagreen);
+  width: 1920px;
+  height: 679px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 104px 278px 107px;
+  box-sizing: border-box;
+  gap: 507px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: #e6e6e6;
+}
+.instance-child28 {
+  position: absolute;
+  height: 100.88%;
+  width: 99.69%;
+  top: -9.02%;
+  right: 0;
+  bottom: 8.14%;
+  left: 0.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.instance-child29 {
+  position: absolute;
+  height: 21.62%;
+  width: 70.92%;
+  top: 7.42%;
+  right: 14.71%;
+  bottom: 70.95%;
+  left: 14.36%;
+  background-color: var(--color-gainsboro-300);
+}
+.fress-groceries-directly5 {
+  position: absolute;
+  top: 30.13%;
+  left: 41.67%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  text-align: left;
+}
+.instance-child30 {
+  position: absolute;
+  height: 1.17%;
+  width: 16.1%;
+  top: 44.86%;
+  right: 42.13%;
+  bottom: 53.96%;
+  left: 41.78%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-300);
+}
+.grab-your-free5,
+.start-making-an5 {
+  position: absolute;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+}
+.grab-your-free5 {
+  top: 45.14%;
+  left: 43.7%;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.start-making-an5 {
+  top: 43.29%;
+  left: 41.78%;
+  font-size: var(--font-size-5xl);
+}
+.join-us10 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  text-align: left;
+}
+.by-cooking-with5 {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  color: var(--color-gray-1000);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 640px;
+}
+.frame-child62,
+.frame-child63 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-7xs);
+  height: 30px;
+}
+.frame-child62 {
+  left: 0;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 312.18px;
+}
+.frame-child63 {
+  left: 228.98px;
+  background-color: var(--color-white);
+  width: 123.02px;
+}
+.sign-up5 {
+  position: absolute;
+  top: 7.8px;
+  left: 256.71px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 66.84px;
+  height: 15px;
+  opacity: 0.9;
+}
+.rectangle-parent28 {
+  position: relative;
+  width: 352px;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-400);
+}
+.join-us-parent3 {
+  position: absolute;
+  height: 5.34%;
+  top: 77.36%;
+  bottom: 17.3%;
+  left: calc(50% - 697px);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-21xl) 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.instance-child31 {
+  position: absolute;
+  height: 47.24%;
+  width: 99.69%;
+  top: 52.76%;
+  right: 0;
+  bottom: 0;
+  left: 0.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.company5 {
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 132px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.about-us12,
+.company5 {
+  position: relative;
+}
+.company-parent3 {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-mini);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.contact5,
+.legal5,
+.social-media5 {
+  position: relative;
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.legal5,
+.social-media5 {
+  width: 81px;
+}
+.social-media5 {
+  width: 181px;
+}
+.frame-parent12 {
+  position: absolute;
+  height: 8.93%;
+  width: 74.66%;
+  top: 88.51%;
+  right: 12.74%;
+  bottom: 2.56%;
+  left: 12.6%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-188xl);
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray-100);
+}
+.chef12 {
+  color: var(--color-khaki);
+}
+.eat-healthy-be5,
+.inochef15 {
+  position: absolute;
+  left: 13.81%;
+}
+.inochef15 {
+  top: 73.49%;
+  font-size: var(--font-size-53xl);
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  color: var(--color-gold);
+}
+.eat-healthy-be5 {
+  top: 76.43%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.07em;
+  color: var(--color-dimgray-100);
+}
+.group-parent5 {
+  position: absolute;
+  top: 4632px;
+  left: -6px;
+  width: 1926px;
+  height: 3237px;
+  text-align: center;
+  font-family: var(--font-pangea-trial);
+}
+.component-container,
+.page-1 {
+  position: relative;
+  overflow: hidden;
+}
+.component-container {
+  align-self: stretch;
+  background-color: var(--color-gray-300);
+  height: 7982px;
+  flex-shrink: 0;
+}
+.page-1 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 7869px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-pangea-text-trial);
+}

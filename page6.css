@@ -1,0 +1,561 @@
+.inochef2 {
+  position: relative;
+  color: var(--color-khaki);
+}
+.about-us2,
+.inochef2 {
+  cursor: pointer;
+}
+.about-us2,
+.how-it-works2 {
+  position: relative;
+}
+.inochef-group {
+  position: absolute;
+  top: 41px;
+  left: 22px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-171xl);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.instance-child1,
+.instance-child2 {
+  position: absolute;
+  height: 100%;
+  width: 98.68%;
+  top: 0;
+  right: 0.33%;
+  bottom: 0;
+  left: 0.99%;
+  background-color: var(--color-cornsilk);
+}
+.instance-child2 {
+  height: 45.6%;
+  width: 92.24%;
+  top: 4%;
+  right: 3.38%;
+  bottom: 50.4%;
+  left: 4.37%;
+  background-color: var(--color-gainsboro-300);
+}
+.enhance-the-beautiful,
+.how-it-works3 {
+  position: absolute;
+  top: 56.8%;
+  left: 4.37%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+}
+.how-it-works3 {
+  top: 52.4%;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-800);
+}
+.frame-child10 {
+  position: relative;
+  width: 200px;
+  height: 220px;
+  object-fit: cover;
+}
+.rectangle-parent2 {
+  position: absolute;
+  height: 31.4%;
+  width: 100%;
+  top: 58.8%;
+  right: 0;
+  bottom: 9.8%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-28xl) var(--padding-34xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-83xl);
+}
+.choose-recipe,
+.cook-enjoy,
+.get-delivered,
+.place-an-order {
+  position: absolute;
+  top: 87%;
+  left: 8.42%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.cook-enjoy,
+.get-delivered,
+.place-an-order {
+  left: 33.25%;
+}
+.cook-enjoy,
+.get-delivered {
+  left: 58.58%;
+}
+.cook-enjoy {
+  left: 83.5%;
+}
+.group-div {
+  position: absolute;
+  top: 280px;
+  left: 354px;
+  width: 1212px;
+  height: 1000px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+}
+.instance-child3 {
+  position: absolute;
+  height: 60.92%;
+  width: 60.33%;
+  top: 0;
+  right: 15.45%;
+  bottom: 39.08%;
+  left: 24.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.instance-child4 {
+  position: absolute;
+  height: 12.74%;
+  width: 42.93%;
+  top: 6%;
+  right: 24.06%;
+  bottom: 81.26%;
+  left: 33.02%;
+  background-color: var(--color-gainsboro-300);
+}
+.fress-groceries-directly1 {
+  position: absolute;
+  top: 19.38%;
+  left: 49.54%;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  text-align: left;
+}
+.instance-child5 {
+  position: absolute;
+  height: 0.69%;
+  width: 9.74%;
+  top: 28.05%;
+  right: 40.65%;
+  bottom: 71.25%;
+  left: 49.61%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-300);
+}
+.grab-your-free1 {
+  top: 28.22%;
+  left: 50.77%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+}
+.grab-your-free1,
+.join-us2,
+.start-making-an1 {
+  position: absolute;
+  font-weight: 500;
+}
+.start-making-an1 {
+  top: 27.13%;
+  left: 49.61%;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.03em;
+}
+.join-us2 {
+  top: 45px;
+  left: 40px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.by-cooking-with1 {
+  position: absolute;
+  top: 75px;
+  left: 40px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  color: var(--color-gray-1000);
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-7xs);
+  height: 30px;
+}
+.group-child {
+  left: 0;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 312.18px;
+}
+.group-item {
+  left: 228.98px;
+  background-color: var(--color-white);
+  width: 123.02px;
+}
+.sign-up1 {
+  position: absolute;
+  top: 7.8px;
+  left: 256.71px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 66.84px;
+  height: 15px;
+  opacity: 0.9;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 107px;
+  left: 40px;
+  width: 352px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-400);
+}
+.instance-child6,
+.join-us-group {
+  position: absolute;
+  height: 3.22%;
+  width: 21.27%;
+  top: 47.16%;
+  right: 47.36%;
+  bottom: 49.62%;
+  left: 31.36%;
+}
+.instance-child6 {
+  height: 22.88%;
+  width: 60.33%;
+  top: 38.04%;
+  right: 15.45%;
+  bottom: 39.08%;
+  left: 24.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.company1 {
+  position: relative;
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 132px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.company-group {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-mini);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.contact1,
+.legal1,
+.social-media1 {
+  position: relative;
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.legal1,
+.social-media1 {
+  width: 81px;
+}
+.social-media1 {
+  width: 181px;
+}
+.frame-container {
+  position: absolute;
+  height: 5.26%;
+  width: 45.19%;
+  top: 53.76%;
+  right: 22.87%;
+  bottom: 40.98%;
+  left: 31.95%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-188xl);
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray-100);
+}
+.chef2 {
+  color: var(--color-khaki);
+}
+.eat-healthy-be1,
+.inochef3 {
+  position: absolute;
+  left: 32.68%;
+}
+.inochef3 {
+  top: 44.92%;
+  font-size: var(--font-size-53xl);
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  color: var(--color-gold);
+}
+.eat-healthy-be1 {
+  top: 46.65%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.07em;
+  color: var(--color-dimgray-100);
+}
+.group-container {
+  position: absolute;
+  top: 5186px;
+  left: -770.56px;
+  width: 3182.24px;
+  height: 5495.95px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.component-child1,
+.component-child2 {
+  position: absolute;
+  height: 56.1%;
+  width: 19.58%;
+  top: 23.83%;
+  right: 59.03%;
+  bottom: 20.07%;
+  left: 21.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-child2 {
+  height: 33.25%;
+  width: 13.28%;
+  top: 35.23%;
+  right: 79.26%;
+  bottom: 31.52%;
+  left: 7.46%;
+}
+.order-your-favorite {
+  position: absolute;
+  width: 39.57%;
+  top: 46.29%;
+  left: 54.66%;
+  letter-spacing: 2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.rectangle-parent4 {
+  position: absolute;
+  height: 10.26%;
+  width: 89.38%;
+  top: 28.96%;
+  right: 5.42%;
+  bottom: 60.78%;
+  left: 5.21%;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #1d2326, #442e51);
+}
+.component-child3,
+.component-child4 {
+  position: absolute;
+  height: 56.1%;
+  width: 19.58%;
+  top: 19.27%;
+  right: 58.86%;
+  bottom: 24.63%;
+  left: 21.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-child4 {
+  height: 33.25%;
+  width: 13.28%;
+  top: 27.02%;
+  right: 79.08%;
+  bottom: 39.73%;
+  left: 7.63%;
+}
+.let-meal-kit-delivered {
+  position: absolute;
+  width: 41.08%;
+  top: 45.95%;
+  left: 54.84%;
+  letter-spacing: 2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.rectangle-parent5 {
+  position: absolute;
+  height: 10.26%;
+  width: 89.38%;
+  top: 40.05%;
+  right: 5.57%;
+  bottom: 49.68%;
+  left: 5.05%;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #1d2226, #4c512e);
+}
+.component-child5,
+.component-child6 {
+  position: absolute;
+  height: 56.1%;
+  width: 19.58%;
+  top: 22.01%;
+  right: 58.86%;
+  bottom: 21.89%;
+  left: 21.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-child6 {
+  height: 33.25%;
+  width: 13.28%;
+  top: 29.53%;
+  right: 79.08%;
+  bottom: 37.22%;
+  left: 7.63%;
+}
+.cook-easily-with {
+  position: absolute;
+  width: 37.3%;
+  top: 46.75%;
+  left: 56.29%;
+  letter-spacing: 2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.rectangle-parent6 {
+  position: absolute;
+  height: 10.26%;
+  width: 89.38%;
+  top: 51.22%;
+  right: 5.57%;
+  bottom: 38.52%;
+  left: 5.05%;
+  border-radius: var(--br-xl);
+  background: linear-gradient(180deg, #1d2326, #2e3251);
+}
+.component-child7,
+.instance-child7 {
+  position: absolute;
+  height: 72.06%;
+  width: 23.86%;
+  top: 16.65%;
+  right: 57.6%;
+  bottom: 11.29%;
+  left: 18.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.instance-child7 {
+  height: 109.03%;
+  width: 111.91%;
+  top: -4.52%;
+  right: -5.96%;
+  bottom: -4.52%;
+  left: -5.96%;
+}
+.rectangle-wrapper2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.instance-wrapper {
+  position: absolute;
+  height: 35.35%;
+  width: 13.74%;
+  top: 29.65%;
+  right: 80%;
+  bottom: 35.01%;
+  left: 6.26%;
+}
+.choose-600-recipes {
+  position: absolute;
+  width: 44.15%;
+  top: 45.84%;
+  left: 54.85%;
+  letter-spacing: 2px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.rectangle-parent7 {
+  position: absolute;
+  height: 10.26%;
+  width: 89.06%;
+  top: 17.86%;
+  right: 5.73%;
+  bottom: 71.88%;
+  left: 5.21%;
+  border-radius: var(--br-xl);
+  background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(46, 81, 60, 0.2),
+      rgba(29, 35, 38, 0.2)
+    ),
+    linear-gradient(180deg, #1d2326, #2e513c);
+}
+.frame-group,
+.page6 {
+  position: relative;
+  overflow: hidden;
+}
+.frame-group {
+  background-color: var(--color-gray-300);
+  width: 1920px;
+  height: 8544px;
+  flex-shrink: 0;
+}
+.page6 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 8534px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-pangea-trial);
+}

@@ -1,0 +1,714 @@
+.inochef4 {
+  position: relative;
+  color: var(--color-khaki);
+}
+.about-us4,
+.inochef4 {
+  cursor: pointer;
+}
+.about-us4,
+.food2 {
+  position: relative;
+}
+.inochef-container {
+  position: absolute;
+  top: 41px;
+  left: 22px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-171xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frame-child14 {
+  position: relative;
+  width: 350px;
+  height: 357px;
+  object-fit: cover;
+}
+.rectangle-parent8 {
+  position: absolute;
+  height: 73.1%;
+  width: 93.41%;
+  top: 21.56%;
+  right: 6.59%;
+  bottom: 5.35%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-28xl) var(--padding-34xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 96px;
+}
+.recipes {
+  position: absolute;
+  width: 18.09%;
+  top: 0;
+  left: 40.47%;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-white);
+  display: inline-block;
+}
+.pavlova-with-berries,
+.take-a-look {
+  position: absolute;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.take-a-look {
+  height: 8.43%;
+  width: 25.84%;
+  top: 11.51%;
+  left: 32.73%;
+  font-size: var(--font-size-base);
+  text-align: center;
+}
+.pavlova-with-berries {
+  width: 14.43%;
+  top: 92.71%;
+  left: 2.66%;
+}
+.braised-cucumbers-with,
+.caramelized-apples-with,
+.creamy-pumpkin-tart,
+.deserts-gluten,
+.vegetarian-sugar {
+  position: absolute;
+  width: 16.04%;
+  top: 92.71%;
+  left: 50.59%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.caramelized-apples-with,
+.creamy-pumpkin-tart,
+.deserts-gluten,
+.vegetarian-sugar {
+  width: 18.74%;
+  left: 26.71%;
+}
+.creamy-pumpkin-tart,
+.deserts-gluten,
+.vegetarian-sugar {
+  width: 8.95%;
+  left: 74.46%;
+}
+.deserts-gluten,
+.vegetarian-sugar {
+  width: 8.9%;
+  top: 102.11%;
+  left: 50.59%;
+  font-size: var(--font-size-smi);
+}
+.deserts-gluten {
+  width: 7.79%;
+  left: 26.71%;
+}
+.img-srcwcu-1jpg-classimg {
+  position: absolute;
+  width: 13.42%;
+  top: 19.94%;
+  left: 50.48%;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  display: inline-block;
+}
+.frame-parent2 {
+  position: absolute;
+  top: 294px;
+  left: 52px;
+  width: 1868px;
+  height: 617px;
+}
+.deserts-gluten1,
+.vegetarian-gluten {
+  position: absolute;
+  width: 13.3%;
+  top: 12.89%;
+  left: 75.16%;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.deserts-gluten1 {
+  width: 7.58%;
+  left: 5.31%;
+}
+.component-child8 {
+  position: absolute;
+  height: 45.6%;
+  width: 93.48%;
+  top: 4%;
+  right: 3.09%;
+  bottom: 50.4%;
+  left: 3.43%;
+  background-color: var(--color-gainsboro-300);
+}
+.make-every-moment,
+.moments-when-we {
+  position: absolute;
+  left: 3.43%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.make-every-moment {
+  width: 57.53%;
+  top: 56.8%;
+  color: var(--color-dimgray-100);
+}
+.moments-when-we {
+  width: 54.85%;
+  top: 52.4%;
+  font-size: var(--font-size-9xl);
+}
+.frame-child18 {
+  position: relative;
+  width: 200px;
+  height: 220px;
+  object-fit: cover;
+}
+.rectangle-parent10 {
+  position: absolute;
+  height: 31.4%;
+  width: 101.34%;
+  top: 58.8%;
+  right: -0.33%;
+  bottom: 9.8%;
+  left: -1%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-28xl) var(--padding-34xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-83xl);
+}
+.delicious,
+.easy-simple,
+.light-healthy,
+.occation-table {
+  position: absolute;
+  top: 1.43%;
+  left: 3.7%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.delicious,
+.easy-simple,
+.light-healthy {
+  left: 30.57%;
+}
+.delicious,
+.easy-simple {
+  left: 58.85%;
+}
+.easy-simple {
+  left: 85.11%;
+}
+.occation-table-parent {
+  position: absolute;
+  width: 94.9%;
+  top: calc(50% + 373.5px);
+  right: 1.67%;
+  left: 3.43%;
+  height: 35px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  height: 13.95%;
+  width: 62.29%;
+  top: 15.07%;
+  right: 18.85%;
+  bottom: 70.97%;
+  left: 18.85%;
+  background-color: var(--color-cornsilk);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-800);
+}
+.cook-your-own {
+  position: absolute;
+  width: 23.91%;
+  top: 35.96%;
+  left: 45.57%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-child22 {
+  position: absolute;
+  height: 12.08%;
+  width: 29.6%;
+  top: 57.36%;
+  right: 37.13%;
+  bottom: 30.57%;
+  left: 33.27%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+}
+.now-you-have {
+  position: absolute;
+  width: 77.23%;
+  top: 35.47%;
+  left: 9.46%;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  display: inline-block;
+}
+.ino1 {
+  color: var(--color-gold);
+}
+.chef3 {
+  color: var(--color-khaki);
+}
+.download-inochef-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.download-inochef {
+  position: absolute;
+  height: 12.08%;
+  width: 29.6%;
+  top: 57.36%;
+  left: 33.27%;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.03em;
+  display: flex;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  align-items: center;
+  color: var(--color-white);
+}
+.rectangle-parent11 {
+  position: absolute;
+  height: 50.96%;
+  width: 29.74%;
+  top: 28.27%;
+  right: 32.29%;
+  bottom: 20.77%;
+  left: 37.97%;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.cook-your-own-food-parent {
+  position: absolute;
+  height: 7.26%;
+  width: 100%;
+  top: 31.93%;
+  right: 0;
+  bottom: 60.81%;
+  left: 0;
+  background-color: var(--color-darkseagreen);
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-800);
+}
+.a-smoothie-commonly,
+.smoothies-healthy-bowl {
+  position: absolute;
+  width: 95.43%;
+  top: 88.8%;
+  left: 4.48%;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.smoothies-healthy-bowl {
+  width: 80.39%;
+  top: 82.51%;
+  left: 15.97%;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: left;
+}
+.group-inner {
+  position: absolute;
+  top: -10px;
+  left: -26px;
+  border-radius: 50%;
+  width: 437px;
+  height: 465px;
+  object-fit: cover;
+}
+.a-smoothie-commonly-has-a-liqu-parent {
+  position: relative;
+  width: 357px;
+  height: 509px;
+}
+.a-deliciously-rich,
+.meatballs-and-mashed {
+  position: absolute;
+  width: 94.84%;
+  top: 88.58%;
+  left: 0;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.meatballs-and-mashed {
+  width: 86.73%;
+  top: 82.36%;
+  left: 13.27%;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: left;
+}
+.ellipse-icon {
+  position: absolute;
+  top: -10px;
+  left: -53px;
+  border-radius: 50%;
+  width: 465px;
+  height: 465px;
+  object-fit: cover;
+}
+.a-deliciously-rich-and-cozy-re-parent {
+  position: relative;
+  width: 407px;
+  height: 499px;
+}
+.a-food-made,
+.fresh-caesar-salad {
+  position: absolute;
+  width: 100%;
+  top: 88.67%;
+  left: 0;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.fresh-caesar-salad {
+  top: 411px;
+  left: 96px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: left;
+  width: 241px;
+}
+.group-child1 {
+  position: absolute;
+  top: -10px;
+  left: -40px;
+  border-radius: 50%;
+  width: 465px;
+  height: 465px;
+  object-fit: cover;
+}
+.a-food-made-primarily-of-a-mix-parent {
+  position: relative;
+  width: 385.99px;
+  height: 503px;
+}
+.shrimp-salad-with {
+  margin: 0;
+}
+.shrimp-salad,
+.shrimp-salad-with-container {
+  position: absolute;
+  width: 68.27%;
+  top: 88.78%;
+  left: 15.97%;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.shrimp-salad {
+  width: 47.9%;
+  top: 81.89%;
+  left: 32.21%;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  text-align: left;
+}
+.group-child2 {
+  position: absolute;
+  top: -10px;
+  left: -54px;
+  border-radius: 50%;
+  width: 462.01px;
+  height: 465px;
+  object-fit: cover;
+}
+.shrimp-salad-with-arugula-and-parent {
+  position: relative;
+  width: 357px;
+  height: 508px;
+}
+.group-parent1 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 775px);
+  right: 0;
+  left: 0;
+  background-color: var(--color-cornsilk);
+  height: 869px;
+  display: flex;
+  flex-direction: row;
+  padding: 174px 26px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 112px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.explore-food-from {
+  position: absolute;
+  width: 19.35%;
+  top: -13.13%;
+  left: 28.54%;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gray-400);
+  text-align: left;
+  display: inline-block;
+}
+.frame-child23 {
+  position: absolute;
+  height: 61.97%;
+  width: 60.5%;
+  top: 0;
+  right: 15.37%;
+  bottom: 38.03%;
+  left: 24.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.frame-child24 {
+  position: absolute;
+  top: 401.14px;
+  left: 1046.2px;
+  background-color: var(--color-gainsboro-300);
+  width: 1366px;
+  height: 700px;
+}
+.fress-groceries-directly2 {
+  position: absolute;
+  top: 1136.14px;
+  left: 1572.2px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  text-align: left;
+}
+.frame-child25 {
+  position: absolute;
+  top: 1613.14px;
+  left: 1574.2px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-300);
+  width: 310px;
+  height: 38px;
+}
+.grab-your-free2 {
+  top: 1622.14px;
+  left: 1611.2px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  color: var(--color-black);
+}
+.grab-your-free2,
+.join-us4,
+.start-making-an2 {
+  position: absolute;
+  font-weight: 500;
+}
+.start-making-an2 {
+  top: 1562.14px;
+  left: 1574.2px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.03em;
+}
+.join-us4 {
+  top: 45px;
+  left: 40px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.by-cooking-with2 {
+  position: absolute;
+  top: 75px;
+  left: 40px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  color: var(--color-gray-1000);
+}
+.frame-child26,
+.frame-child27 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-7xs);
+  height: 30px;
+}
+.frame-child26 {
+  left: 0;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 312.18px;
+}
+.frame-child27 {
+  left: 228.98px;
+  background-color: var(--color-white);
+  width: 123.02px;
+}
+.sign-up2 {
+  position: absolute;
+  top: 7.8px;
+  left: 256.71px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 66.84px;
+  height: 15px;
+  opacity: 0.9;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 107px;
+  left: 40px;
+  width: 352px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-400);
+}
+.frame-child28,
+.join-us-container {
+  position: absolute;
+  top: 2662.95px;
+  left: 993.59px;
+  width: 677px;
+  height: 177px;
+}
+.frame-child28 {
+  height: 25.31%;
+  width: 60.5%;
+  top: 38.03%;
+  right: 15.37%;
+  bottom: 36.66%;
+  left: 24.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.company2 {
+  position: relative;
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 132px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.company-container {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-mini);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.contact2,
+.legal2,
+.social-media2 {
+  position: relative;
+  font-size: 27.72px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  font-family: var(--font-pangea-text-trial);
+  color: var(--color-gainsboro-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.legal2,
+.social-media2 {
+  width: 81px;
+}
+.social-media2 {
+  width: 181px;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 3026.14px;
+  left: 1012.2px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-8xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-188xl);
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray-100);
+}
+.eat-healthy-be2,
+.inochef5 {
+  position: absolute;
+  left: 1035.59px;
+}
+.inochef5 {
+  top: 2539.95px;
+  font-size: var(--font-size-53xl);
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  color: var(--color-gold);
+}
+.eat-healthy-be2 {
+  top: 2634.95px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.07em;
+  color: var(--color-dimgray-100);
+}
+.explore-food-from-all-over-the-parent {
+  position: absolute;
+  top: 3708.05px;
+  left: -765.59px;
+  width: 3173.4px;
+  height: 5438.86px;
+  text-align: center;
+  color: var(--color-white);
+}
+.frame-parent1,
+.page4 {
+  position: relative;
+  overflow: hidden;
+}
+.frame-parent1 {
+  background-color: var(--color-gray-300);
+  width: 1920px;
+  height: 7166px;
+  flex-shrink: 0;
+}
+.page4 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 7153px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-pangea-trial);
+}
